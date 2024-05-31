@@ -1,6 +1,9 @@
 # Product Listing
 
-This is a simple product listing page built with Next.js and Tailwind CSS. It fetches data from a mock API and displays a list of products with a search functionality and a product details modal.
+This is a simple product listing page built with Next.js and Tailwind CSS. It fetches data from a mock API and displays a list of products with search functionality and a product details modal.
+
+![image](https://github.com/Anuraj4/FlowLaunch-Internship/blob/main/Screenshot%202024-05-31%20121830.png)
+
 
 ## Setup
 
